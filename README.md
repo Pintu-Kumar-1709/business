@@ -35,14 +35,19 @@ This project was also built to sharpen my **frontend development skills** and ga
 ## 📂 Project Structure
 Business-Website-Template/
 │── index.html
+
 │── /css
 │ └── style.css
+
 │── /js
 │ └── script.js
+
 │── /images
 │ └── (all project images)
+
 │── /bootstrap
 │ └── (bootstrap files if used locally)
+
 └── README.md
 
 
@@ -82,9 +87,6 @@ Practice clean code and organized folder structures
 
 Develop a reusable business website template
 
-📸 Preview
-
-(Add screenshots or demo GIF here once hosted)
 
 📚 Learning Outcomes
 
